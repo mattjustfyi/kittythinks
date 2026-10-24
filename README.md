@@ -2,7 +2,7 @@
 
 Code and content for the kittythinks.com blog: https://www.kittythinks.com
 
-Content by the scholarly Kitty: https://twitter.com/kittythinks
+Content by the scholarly Kitty: https://mas.to/@mythologyandhistory/
 
 ## Tech stack
 
